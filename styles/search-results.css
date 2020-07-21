@@ -54,7 +54,7 @@ main .cards {
     gap: 24px;
 }
 
-main img {
+main .card img {
     width: 100%;
     height: 150px;
     object-fit: cover;
